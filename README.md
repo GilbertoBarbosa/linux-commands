@@ -15,3 +15,8 @@ Unzip file .zip
 ```
 unzip file.zip -d destination directory
 ```
+
+See file content
+```
+cat <file>
+```
