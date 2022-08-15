@@ -20,3 +20,8 @@ See file content
 ```
 cat <file>
 ```
+
+Run program file
+```
+./<file program>
+```
