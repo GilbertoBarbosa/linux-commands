@@ -25,3 +25,8 @@ Run program file
 ```
 ./<file program>
 ```
+
+User access
+```
+id
+```
