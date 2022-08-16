@@ -30,3 +30,8 @@ User access
 ```
 id
 ```
+
+File validate
+```
+source <file>
+```
