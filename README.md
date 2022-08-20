@@ -35,3 +35,13 @@ File validate
 ```
 source <file>
 ```
+
+Compile C with GCC
+```
+gcc <file.c> -o <file.out>
+```
+
+Execute program
+```
+./file.out
+```
