@@ -36,12 +36,22 @@ File validate
 source <file>
 ```
 
-Compile C with GCC
+Compile C with gcc
 ```
 gcc <file.c> -o <file.out>
+```
+
+Compile C++ with g++
+```
+g++ <file.c> -o <file.out>
 ```
 
 Execute program
 ```
 ./file.out
+```
+
+Generate SSH Key
+```
+ssh-keygen -t rsa
 ```
