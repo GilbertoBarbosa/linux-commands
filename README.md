@@ -55,3 +55,8 @@ Generate SSH Key
 ```
 ssh-keygen -t rsa
 ```
+
+Restart Linux service
+```
+sudo systemctl restart <service>
+```
