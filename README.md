@@ -60,3 +60,8 @@ Restart Linux service
 ```
 sudo systemctl restart <service>
 ```
+
+Create and save content in file
+```
+echo "conntent" > <file>
+```
