@@ -65,3 +65,10 @@ Create and save content in file
 ```
 echo "conntent" > <file>
 ```
+
+Free up disk space
+```
+sudo apt-get autoremove
+sudo apt-get autoclean
+sudo apt-get clean
+```
