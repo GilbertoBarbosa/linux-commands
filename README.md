@@ -56,6 +56,11 @@ Generate SSH Key
 ssh-keygen -t rsa
 ```
 
+Access an instance with SSH
+```
+ssh -i <key.pem> <instance>
+```
+
 Restart Linux service
 ```
 sudo systemctl restart <service>
