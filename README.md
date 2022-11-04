@@ -80,5 +80,5 @@ sudo apt-get clean
 
 Install CLI heroku
 ```
-sudo snap install heroku --classic
+sudo curl https://cli-assets.heroku.com/install.sh | sh
 ```
