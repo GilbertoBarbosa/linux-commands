@@ -77,3 +77,8 @@ sudo apt-get autoremove
 sudo apt-get autoclean
 sudo apt-get clean
 ```
+
+Install CLI heroku
+```
+sudo snap install heroku --classic
+```
