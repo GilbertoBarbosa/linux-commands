@@ -1,6 +1,11 @@
 # linux-commands
 Linux commands
 
+Download
+```
+wget <link>
+```
+
 Install program
 ```
 dpkg -i package_file.deb
