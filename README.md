@@ -9,6 +9,7 @@ wget <link>
 Install program
 ```
 dpkg -i package_file.deb
+bash <file.sh>
 ```
 
 Unzip file tar.gz
