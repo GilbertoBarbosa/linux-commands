@@ -98,3 +98,8 @@ Install CLI heroku
 ```
 sudo curl https://cli-assets.heroku.com/install.sh | sh
 ```
+
+Restart system
+```
+sudo reboot
+```
