@@ -67,6 +67,11 @@ Access an instance with SSH
 ssh -i <key.pem> <instance>
 ```
 
+Secure copy SSH
+```
+scp -i <key.pem> <origin> <destination>
+```
+
 Restart Linux service
 ```
 sudo systemctl restart <service>
