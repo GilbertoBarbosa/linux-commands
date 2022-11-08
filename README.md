@@ -1,6 +1,11 @@
 # linux-commands
 Linux commands
 
+List process
+```
+ps aux
+```
+
 Download
 ```
 wget <link>
