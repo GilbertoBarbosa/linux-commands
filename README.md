@@ -108,3 +108,8 @@ Restart system
 ```
 sudo reboot
 ```
+
+Schedule
+```
+crontab -e
+```
