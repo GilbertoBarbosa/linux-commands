@@ -112,4 +112,5 @@ sudo reboot
 Schedule
 ```
 crontab -e
+crontab -l
 ```
