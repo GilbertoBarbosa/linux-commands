@@ -114,3 +114,9 @@ Schedule
 crontab -e
 crontab -l
 ```
+
+Stress-ng
+```
+sudo apt-get install stress-ng
+# stress-ng -c 1 -l 90 -t 5m (example)
+```
