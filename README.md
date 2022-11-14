@@ -62,9 +62,19 @@ Change primary user group
 usermod -g <newGroupName> <userName>
 ```
 
+Change secondary user group
+```
+usermod -a -G <newGroupName> <userName>
+```
+
 User access
 ```
 id
+```
+
+Create file
+```
+touch <fileName>
 ```
 
 File validate
