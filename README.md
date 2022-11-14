@@ -1,6 +1,16 @@
 # linux-commands
 Linux commands
 
+Machine name
+```
+hostname
+```
+
+Current directory
+```
+pwd
+```
+
 List process
 ```
 ps aux
@@ -35,6 +45,21 @@ cat <file>
 Run program file
 ```
 ./<file program>
+```
+
+Create user
+```
+adduser <userName>
+```
+
+Create group
+```
+addgroup <groupName>
+```
+
+Change primary user group
+```
+usermod -g <newGroupName> <userName>
 ```
 
 User access
