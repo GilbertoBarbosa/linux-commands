@@ -11,9 +11,36 @@ Current directory
 pwd
 ```
 
+Copy / move files
+```
+cp <file> <destination>
+mv <file> <destination>
+```
+
+Delete file / directory
+```
+rm <file>
+rmdir <directory> # empty directory
+```
+
 List process
 ```
 ps aux
+```
+
+List files and directories hidden
+```
+ls -la
+```
+
+Change permissions
+n = 7 (full access)
+n = 4 (r)
+n = 2 (w)
+n = 1 (x)
+n = 0 (-)
+```
+chmod nnn <file>
 ```
 
 Download
