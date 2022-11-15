@@ -42,6 +42,11 @@ See file content
 cat <file>
 ```
 
+Save content file in another file
+```
+cat <file> > <otherFile>
+```
+
 Run program file
 ```
 ./<file program>
