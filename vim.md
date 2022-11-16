@@ -24,3 +24,8 @@ ESC
 ```
 :wq  + <enter>
 ```
+
+# Undo modification file
+```
+:q! + <enter>
+```
