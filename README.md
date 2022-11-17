@@ -171,6 +171,11 @@ Disk space
 df -h
 ```
 
+Archive system 
+```
+df -Th
+```
+
 Install CLI heroku
 ```
 sudo curl https://cli-assets.heroku.com/install.sh | sh
