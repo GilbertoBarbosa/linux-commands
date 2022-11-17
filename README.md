@@ -59,6 +59,11 @@ dpkg -i package_file.deb
 bash <file.sh>
 ```
 
+Zip files
+```
+zip <file.zip> *
+```
+
 Unzip file tar.gz
 ```
 tar -xzf file.tar.gz
