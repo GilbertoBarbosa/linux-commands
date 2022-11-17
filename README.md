@@ -33,6 +33,11 @@ List files and directories hidden
 ls -la
 ```
 
+List files and directories tree
+```
+tree -L 1 # 1 = level
+```
+
 Change permissions
 n = 7 (full access)
 n = 4 (r)
