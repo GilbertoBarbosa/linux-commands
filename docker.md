@@ -8,7 +8,7 @@ Runner container
 docker run -t -i <imageName>
 ```
 
-Runner container with local volume
+Runner container with local volume iterative mode
 ```
-docker run -d --name <name> -v <pathLocalVolume>:<pathContainerVolume> -it <imageName>
+docker run -it --name <name> --mount type=bind,source=<pathLocalVolume>,target=<pathContainerVolume> <imageName>
 ```
