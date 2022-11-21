@@ -208,3 +208,20 @@ Show url ip
 dig <site>
 ```
 
+Environment Variables
+```
+# List
+env
+printenv
+
+# Print all variables and functions
+set
+
+# Delete environment variables
+unset <variable>
+
+# Create variable
+export <KEY>=<value>
+
+```
+
