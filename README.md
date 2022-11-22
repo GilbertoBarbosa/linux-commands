@@ -222,6 +222,9 @@ unset <variable>
 
 # Create variable
 export <KEY>=<value>
-
 ```
 
+Enviroment variables
+```
+redit .bashrc
+```
