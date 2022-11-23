@@ -52,3 +52,8 @@ Start/Stop container
 docker container start <containerName>
 docker container stop <containerName>
 ```
+
+Create image in the current directory
+```
+docker build -t <imageName> .
+```
