@@ -1,4 +1,4 @@
 List nodes
 ```
-kubectl
+kubectl get nodes
 ```
