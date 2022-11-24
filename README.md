@@ -226,5 +226,5 @@ export <KEY>=<value>
 
 Enviroment variables
 ```
-redit .bashrc
+gedit .bashrc
 ```
