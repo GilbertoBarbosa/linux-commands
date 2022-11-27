@@ -25,6 +25,8 @@ Runner container with local volume iterative mode
 docker run -it --name <name> --mount type=bind,source=<pathLocalVolume>,target=<pathContainerVolume> <imageName>
 # or
 docker run -it --name <name> -v <pathLocalVolume>:<pathContainerVolume> <imageName>
+# or (background)
+docker run -dit --name <name> <image>
 ```
 
 Create volume
