@@ -64,3 +64,8 @@ List docker networks
 ```
 docker network ls
 ```
+
+Docker inspect
+```
+docker inspect <containerName>
+```
