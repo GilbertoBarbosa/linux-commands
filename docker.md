@@ -57,3 +57,8 @@ Create image in the current directory
 ```
 docker build -t <imageName> .
 ```
+
+List docker networks
+```
+docker network ls
+```
