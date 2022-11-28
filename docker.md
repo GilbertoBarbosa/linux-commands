@@ -74,3 +74,8 @@ Docker inspect
 ```
 docker inspect <containerName>
 ```
+
+Disconect network
+```
+docker disconect <network> <container>
+```
