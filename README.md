@@ -33,6 +33,12 @@ List files and directories hidden
 ls -la
 ```
 
+Ip configuration
+```
+# net-tools package
+ifconfig
+```
+
 List files and directories tree
 ```
 tree -L 1 # 1 = level
