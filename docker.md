@@ -65,6 +65,11 @@ List docker networks
 docker network ls
 ```
 
+Create new network
+```
+docker network create <networkName>
+```
+
 Docker inspect
 ```
 docker inspect <containerName>
