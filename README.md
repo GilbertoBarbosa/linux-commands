@@ -226,8 +226,12 @@ set
 # Delete environment variables
 unset <variable>
 
-# Create variable
+# Create environment variable
 export <KEY>=<value>
+```
+
+# Access  environment variable directory
+cd $<VARIABLE_NAME>
 ```
 
 Enviroment variables
