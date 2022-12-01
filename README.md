@@ -238,3 +238,10 @@ Enviroment variables
 ```
 gedit .bashrc
 ```
+
+Loop for
+```
+for i in {1..n};
+do <action>;
+done;
+```
