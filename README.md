@@ -23,6 +23,11 @@ rm <file>
 rmdir <directory> # empty directory
 ```
 
+Remove recursively all files current directory
+```
+rm -rf * 
+```
+
 List process
 ```
 ps aux
