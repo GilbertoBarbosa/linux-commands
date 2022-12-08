@@ -187,6 +187,11 @@ Disk space
 df -h
 ```
 
+Disk usage
+```
+du -h
+```
+
 Archive system 
 ```
 df -Th
@@ -233,9 +238,8 @@ unset <variable>
 
 # Create environment variable
 export <KEY>=<value>
-```
 
-# Access  environment variable directory
+# Access environment variable directory
 cd $<VARIABLE_NAME>
 ```
 
