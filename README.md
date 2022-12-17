@@ -6,6 +6,12 @@ Connecting root user
 su
 ```
 
+update system ubuntu / 
+```
+sudo apt-get update -y
+sudo yum update -y
+```
+
 Machine name
 ```
 hostname
@@ -259,3 +265,10 @@ for i in {1..n};
 do <action>;
 done;
 ```
+
+Stop/Disable firewall
+```
+systemctl stop firewalld
+systemctl disable firewalld
+```
+
