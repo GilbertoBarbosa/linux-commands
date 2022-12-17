@@ -1,6 +1,11 @@
 # linux-commands
 Linux commands
 
+Connecting root user
+```
+su
+```
+
 Machine name
 ```
 hostname
