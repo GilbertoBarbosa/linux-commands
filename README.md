@@ -3,7 +3,8 @@ Linux commands
 
 Connecting root user
 ```
-su
+su <password>
+su - <otherUser>
 ```
 
 update system ubuntu / 
