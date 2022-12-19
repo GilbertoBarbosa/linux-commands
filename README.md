@@ -71,6 +71,11 @@ n = 0 (-)
 chmod nnn <file>
 ```
 
+Change file owner
+```
+chown <user>:<user> <file>
+```
+
 Download
 ```
 wget <link>
