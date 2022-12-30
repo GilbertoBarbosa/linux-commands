@@ -56,6 +56,11 @@ Ip configuration
 ifconfig
 ```
 
+nmap
+```
+sudo nmap -sn <ip>
+```
+
 List files and directories tree
 ```
 tree -L 1 # 1 = level
