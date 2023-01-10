@@ -34,6 +34,11 @@ docker run -it --name <name> -v <pathLocalVolume>:<pathContainerVolume> <imageNa
 docker run -dit --name <name> <image>
 ```
 
+Exec container (Linux)
+```
+docker exec -it <containerName> /bin/bash
+```
+
 Create volume
 ```
 docker volume create <volumeName>
