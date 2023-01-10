@@ -20,7 +20,7 @@ docker ps -a
 
 Runner container
 ```
-docker run -t -i <imageName>
+docker run -dt --name <containerName> -i <imageName>
 # or
 docker container <containerName>
 ```
