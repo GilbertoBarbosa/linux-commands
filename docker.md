@@ -1,3 +1,8 @@
+Docker version
+```
+docker version
+```
+
 Pull image
 ```
 docker pull <imageName>
