@@ -100,6 +100,7 @@ bash <file.sh>
 Became bash script executable
 ```
 chmod 655 <file.sh>
+./<file.sh>
 ```
 
 Zip files
