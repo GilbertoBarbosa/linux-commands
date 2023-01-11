@@ -92,6 +92,16 @@ dpkg -i package_file.deb
 bash <file.sh>
 ```
 
+Exec bash script
+```
+bash <file.sh>
+```
+
+Became bash script executable
+```
+chmod 655 <file.sh>
+```
+
 Zip files
 ```
 zip <file.zip> *
